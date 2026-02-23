@@ -1,0 +1,8 @@
+*.tar
+*.pkl
+aclImdb*
+__pycache__/
+.ipynb_checkpoints/
+git add .
+git commit -m "Initial clean commit without large files"
+

@@ -1,0 +1,6 @@
+*.tar
+*.pkl
+aclImdb*
+__pycache__/
+.ipynb_checkpoints/
+*.csv
